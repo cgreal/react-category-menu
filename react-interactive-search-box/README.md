@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 How it works:
 
-1- Enter one of the names from mockData for testing.
+1- Enter one of the names from mockData for testing. For example: "Anna"
 
 2- You can navigate result items with keyUp and KeyDown from keyboard
 
